@@ -3,6 +3,7 @@ class Player
 
   def initialize(name)
     @name = name
+    # initial points. Will have to set to 60.
   end
 
 end
