@@ -25,4 +25,6 @@ class Battle < Sinatra::Base
     erb :attack
   end
 
+
+
 end
